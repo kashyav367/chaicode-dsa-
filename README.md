@@ -70,7 +70,7 @@ For every problem, I try to include:
 
 ## 🔥 Platforms
 
-- ChaiCode DSA  :https://dsa.chaicode.com/
+- ChaiCode DSA  :-> https://dsa.chaicode.com/
 - LeetCode
 
 ## ⭐ Why this Repository?
